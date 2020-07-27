@@ -1,4 +1,4 @@
-# manohar
+#Sinanzwayinkosi
 
 A simple portfolio website which showcase my work..
 
