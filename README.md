@@ -1,5 +1,5 @@
-# sinanzwayinkosi
+# manohar
 
 A simple portfolio website which showcase my work..
 
-<a href = "https://proffndhlovu.github.io/sinanzwayinkosi.github.io/"> click here </a>
+<a href = "https://manoharys.github.io/"> click here </a>
